@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="shift_jis" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <list-index xmlns="http://www.aok-net.com/list-index">
 
-	<title>MyBook３ マニュアル</title>
+	<title>MyBook5 マニュアル</title>
 	<linkBase />
 
-<!-- はじめに -->
+	<!-- はじめに -->
 	<item>
 		<category>はじめに/マイブックの概要</category>
 		<link>はじめに/マイブックの概要.htm</link>
@@ -26,7 +26,7 @@
 		<link>はじめに/著作権について.htm</link>
 	</item>
 
-<!-- マイブックの起動と終了 -->
+	<!-- マイブックの起動と終了 -->
 	<item>
 		<category>マイブックの起動と終了/マイブックの起動</category>
 		<link>マイブックの起動と終了/マイブックの起動.htm</link>
@@ -36,7 +36,7 @@
 		<link>マイブックの起動と終了/マイブックの終了.htm</link>
 	</item>
 
-<!-- 読書を始めよう -->
+	<!-- 読書を始めよう -->
 	<item>
 		<category>読書を始めよう/インターネット上の図書を読む/サピエ図書館</category>
 		<link>読書を始めよう/サピエ図書館.htm</link>
@@ -86,7 +86,7 @@
 		<link>読書を始めよう/本棚から図書抽出.htm</link>
 	</item>
 
-<!-- 画面の基本操作 -->
+	<!-- 画面の基本操作 -->
 	<item>
 		<category>画面の基本操作/画面の種類</category>
 		<link>画面の基本操作/画面の種類.htm</link>
@@ -140,7 +140,7 @@
 		<link>画面の基本操作/メディアの再生画面.htm</link>
 	</item>
 
-<!-- 本棚を活用しよう -->
+	<!-- 本棚を活用しよう -->
 	<item>
 		<category>本棚を活用しよう/本棚の新規作成</category>
 		<link>本棚を活用しよう/本棚の新規作成.htm</link>
@@ -194,7 +194,7 @@
 		<link>本棚を活用しよう/保存先の切替.htm</link>
 	</item>
 
-<!-- 便利な機能 -->
+	<!-- 便利な機能 -->
 	<item>
 		<category>便利な機能/文字列の検索/図書一覧の検索</category>
 		<link>便利な/図書一覧の検索.htm</link>
@@ -251,16 +251,16 @@
 		<category>便利な機能/休憩タイマー</category>
 		<link>便利な/休憩タイマー.htm</link>
 	</item>
-  <item>
-    <category>便利な機能/読み辞書を編集する</category>
-    <link>便利な/読み辞書を編集する.htm</link>
-  </item>
-  <item>
-    <category>便利な機能/MP3タグを編集する</category>
-    <link>便利な/MP3タグを編集する.htm</link>
-  </item>
+	<item>
+		<category>便利な機能/読み辞書を編集する</category>
+		<link>便利な/読み辞書を編集する.htm</link>
+	</item>
+	<item>
+		<category>便利な機能/MP3タグを編集する</category>
+		<link>便利な/MP3タグを編集する.htm</link>
+	</item>
 
-  <!-- 図書やファイルの種類 -->
+	<!-- 図書やファイルの種類 -->
 	<item>
 		<category>図書やファイルの種類/デイジー図書</category>
 		<link>図書やファイルの種類/デイジー図書.htm</link>
@@ -306,7 +306,7 @@
 		<link>図書やファイルの種類/その他のファイル.htm</link>
 	</item>
 
-<!-- 環境設定 -->
+	<!-- 環境設定 -->
 	<item>
 		<category>環境設定/画面表示の設定/画面の拡大</category>
 		<link>環境設定/画面の拡大.htm</link>
@@ -332,7 +332,7 @@
 		<link>環境設定/マイブックを最新版に更新する.htm</link>
 	</item>
 
-<!-- フルキーコマンド -->
+	<!-- フルキーコマンド -->
 	<item>
 		<category>フルキーコマンド/全般</category>
 		<link>フルキーコマンド/全般.htm</link>
@@ -366,7 +366,7 @@
 		<link>フルキーコマンド/その他全文読み中の操作.htm</link>
 	</item>
 
-<!-- 点字キーコマンド -->
+	<!-- 点字キーコマンド -->
 	<item>
 		<category>点字キーコマンド/全般</category>
 		<link>点字キーコマンド/全般.htm</link>
@@ -404,7 +404,7 @@
 		<link>点字キーコマンド/５０オン順点字コマンド.htm</link>
 	</item>
 
-<!-- 付録 -->
+	<!-- 付録 -->
 	<item>
 		<category>補足１ 旧マイブックとの違い</category>
 		<link>付録/旧マイブックとの違い.htm</link>
